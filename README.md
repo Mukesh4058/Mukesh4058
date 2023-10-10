@@ -1,4 +1,4 @@
-![logo](https://github.com/Mukesh4058/Mukesh4058/blob/main/muke.pdf)
+
 <h1 align="center">Hi 👋, I'm Mukesh P</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
